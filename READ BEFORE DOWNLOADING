@@ -1,0 +1,10 @@
+Hello,
+I have uploaded my URL to download UbuntuMac, the promised modified version of Ubuntu that is compatible with Macs from 1998-Present, 
+i Have been working on this for 20 days now, just copy and paste the URL  and download the file.
+You have to download Balena Etcher and Flash to a drive with 3gb or more, then plug it in to your Mac and hold Options,
+when you enter macOS Utilities, hit the down arrow and select the drive with the USB logo on it.
+When you first boot into UbuntuMac, it is basically the same setup as Ubuntu, but with macOS Utilities,
+When you install it, you have to select the unallocated space and then allocate the disk space on your Mac,
+then you have to select the entire disk, then Install, otherwise there is a 99% chance that it will not work.
+Good Luck! Enjoy! I will start working on the FreeBSD then the Windows as promised, I will upload an updated README every time
+we change something, as of now, we will launch FreeBSD for Mac sometime next week, and Windows in late June-July
